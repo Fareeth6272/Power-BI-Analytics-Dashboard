@@ -2,9 +2,9 @@
 # Objective
 The primary goal of this project is to analyze and visualize HR-related metrics, offering actionable insights into workforce attrition, job satisfaction, and demographic distribution
 # Data Cleaning & Transformation
-1) Handled Missing Values: Used interpolation methods and domain expertise to manage any missing records
-2) Standardized Data Types: Ensured consistency in data fields like age, job roles, and attrition rates
-3 Calculated Measures: Derived key performance indicators (KPIs) such as attrition rate, active employees, and average employee age using DAX (Data Analysis Expressions)
+* Handled Missing Values: Used interpolation methods and domain expertise to manage any missing records
+* Standardized Data Types: Ensured consistency in data fields like age, job roles, and attrition rates
+* Calculated Measures: Derived key performance indicators (KPIs) such as attrition rate, active employees, and average employee age using DAX (Data Analysis Expressions)
 # Key Features & Insights
 # 1. Overall HR Metrics:
 * Total Employees: 1,470
