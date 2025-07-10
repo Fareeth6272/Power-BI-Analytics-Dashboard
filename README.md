@@ -1,7 +1,6 @@
 # HR Analytics Dashboard 
-# Objective
-The primary goal of this project is to analyze and visualize HR-related metrics, offering actionable insights into workforce attrition, job satisfaction, and demographic distribution
-# Data Cleaning & Transformation
+# Problem Statement
+Employee attrition poses a significant challenge for organizations, leading to increased hiring costs, loss of talent, and disruptions in productivity. Without a clear understanding of the factors driving attrition—such as job roles, age groups, departments, and job satisfaction—HR teams struggle to take targeted actions to retain employees. This project aims to analyze HR data to uncover patterns and trends in employee attrition, identify at-risk groups, and provide actionable insights. The goal is to help the company develop effective strategies for employee engagement, satisfaction, and retention, ultimately reducing turnover and improving organizational stability.# Data Cleaning & Transformation
 * Handled Missing Values: Used interpolation methods and domain expertise to manage any missing records
 * Standardized Data Types: Ensured consistency in data fields like age, job roles, and attrition rates
 * Calculated Measures: Derived key performance indicators (KPIs) such as attrition rate, active employees, and average employee age using DAX (Data Analysis Expressions)
